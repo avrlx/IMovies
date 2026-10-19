@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The Last Orbit</title>
+  <desc id="desc">A lone astronaut and a luminous planet in deep space.</desc>
+  <defs>
+    <linearGradient id="space" x2="0" y2="1"><stop stop-color="#081322"/><stop offset=".52" stop-color="#153d53"/><stop offset="1" stop-color="#090f20"/></linearGradient>
+    <radialGradient id="planet"><stop stop-color="#b9e9ed"/><stop offset=".64" stop-color="#4c94a9"/><stop offset="1" stop-color="#193448"/></radialGradient>
+    <linearGradient id="suit" x2="1" y2="1"><stop stop-color="#f2e7cf"/><stop offset="1" stop-color="#8296a2"/></linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#space)"/><circle cx="418" cy="315" r="180" fill="#3ce0dc" opacity=".11"/><circle cx="418" cy="315" r="136" fill="url(#planet)"/>
+  <path d="M-60 450c150-202 489-260 724-32" fill="none" stroke="#b4f6ed" stroke-width="3" opacity=".62"/><path d="M-35 469c172-172 446-203 685-25" fill="none" stroke="#a5d6e5" stroke-width="1" opacity=".38"/>
+  <g fill="#f2f8ff"><circle cx="89" cy="155" r="3"/><circle cx="213" cy="258" r="2"/><circle cx="511" cy="120" r="3"/><circle cx="543" cy="470" r="2"/><circle cx="132" cy="384" r="2"/><circle cx="345" cy="110" r="2"/><circle cx="80" cy="555" r="3"/></g>
+  <path d="M0 654c134-52 257-30 364 15s165 37 236 4v227H0Z" fill="#09101f"/>
+  <path d="M192 672c7-81 32-135 75-161l43 5c41 35 58 93 52 165l-33 38H220Z" fill="url(#suit)" stroke="#d4e6e2" stroke-width="5"/>
+  <ellipse cx="289" cy="531" rx="58" ry="65" fill="#263f54" stroke="#e5eee2" stroke-width="11"/><ellipse cx="289" cy="531" rx="42" ry="48" fill="#5bd4d1" opacity=".66"/>
+  <path d="m195 707-70 109m239-108 76 97" fill="none" stroke="#e5eee2" stroke-width="24" stroke-linecap="round"/><path d="M213 624h152" stroke="#e2b36c" stroke-width="10"/>
+  <text x="48" y="105" fill="#9df2e7" font-family="Arial,sans-serif" font-size="18" letter-spacing="8">AN IMOVIES ORIGINAL</text>
+  <text x="45" y="785" fill="#f3f7f6" font-family="Arial,sans-serif" font-size="53" font-weight="bold" letter-spacing="2">THE LAST</text>
+  <text x="47" y="844" fill="#74e4d8" font-family="Arial,sans-serif" font-size="55" font-weight="bold" letter-spacing="5">ORBIT</text>
+</svg>

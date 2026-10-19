@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Midnight in Mumbai</title>
+  <desc id="desc">A warm, cinematic Mumbai skyline beneath a glowing midnight moon.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#11172e"/><stop offset=".58" stop-color="#6e344d"/><stop offset="1" stop-color="#f08b58"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#ffe6b5"/><stop offset="1" stop-color="#ffb56b" stop-opacity="0"/></radialGradient>
+    <linearGradient id="city" x2="0" y2="1"><stop stop-color="#31334d"/><stop offset="1" stop-color="#101321"/></linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#sky)"/><circle cx="420" cy="245" r="160" fill="url(#moon)"/><circle cx="420" cy="245" r="60" fill="#ffd69a" opacity=".88"/>
+  <path d="M0 535 70 495l40 30 63-92 52 74 61-48 55 63 54-101 43 55 63-34 99 78v380H0Z" fill="#22243a" opacity=".72"/>
+  <path d="M0 625h70v-95h42v65h54V488h60v94h40V536h58v75h48V474h55v99h54v-61h56v73h63v-84h45v105h55v294H0Z" fill="url(#city)"/>
+  <g fill="#ffc879" opacity=".8"><path d="M88 560h8v12h-8zm0 26h8v12h-8zm62 36h9v14h-9zm59-95h8v13h-8zm0 29h8v13h-8zm118 6h9v14h-9zm98-46h8v13h-8zm0 28h8v13h-8zm92 43h9v14h-9z"/></g>
+  <path d="M0 743c102-42 179 19 279-21 103-40 196 18 321-34v212H0Z" fill="#101321" opacity=".95"/>
+  <text x="48" y="105" fill="#ffd69a" font-family="Arial,sans-serif" font-size="18" letter-spacing="8">AN IMOVIES ORIGINAL</text>
+  <text x="46" y="752" fill="#fff7ed" font-family="Georgia,serif" font-size="60" font-weight="bold">MIDNIGHT</text>
+  <text x="48" y="816" fill="#fff7ed" font-family="Georgia,serif" font-size="46">IN MUMBAI</text>
+  <text x="51" y="855" fill="#ffd69a" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">A CITY FULL OF STORIES</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Monsoon Letters</title>
+  <desc id="desc">Two glowing windows in a rain-soaked city, with a paper letter between them.</desc>
+  <defs>
+    <linearGradient id="rain" x2="0" y2="1"><stop stop-color="#10172d"/><stop offset=".54" stop-color="#243b58"/><stop offset="1" stop-color="#101729"/></linearGradient>
+    <linearGradient id="window" x2="0" y2="1"><stop stop-color="#ffe8ad"/><stop offset="1" stop-color="#db8058"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#rain)"/>
+  <circle cx="166" cy="356" r="82" fill="#ffbd75" opacity=".3" filter="url(#glow)"/><circle cx="433" cy="310" r="82" fill="#ffbd75" opacity=".28" filter="url(#glow)"/>
+  <path d="M0 467h195V245h-29v-51h-24v51H97v-74H68v74H0Zm397-35h203V152h-50v68h-27v-93h-35v93h-27v-57h-32v57h-32Z" fill="#111729"/>
+  <path d="M33 280h119v156H33Zm401-86h119v223H434Z" fill="url(#window)" opacity=".86"/>
+  <path d="M92 280v156m-59-77h119m341-125v223m-59-112h119" stroke="#172039" stroke-width="9" opacity=".84"/>
+  <path d="M0 558c89-20 151 25 244 4s191-31 356 3v335H0Z" fill="#0c1222"/>
+  <g stroke="#8cc7df" stroke-width="3" opacity=".45"><path d="m33 40-54 175M121 90 77 233M228 23l-62 206M330 67l-48 155M522 22l-64 190M585 340l-58 179M172 334l-58 178M400 503l-60 176M72 520l-51 151M282 261l-42 139M551 624l-60 186M206 650l-47 157"/></g>
+  <path d="m244 549 142-32 46 142-142 34Z" fill="#f7e8cf"/><path d="m244 549 92 58 96-48" fill="none" stroke="#c7875e" stroke-width="5"/><path d="m276 588 43 28m-31-2 43 27m-30 0 43 27" stroke="#7e6871" stroke-width="4" opacity=".7"/>
+  <text x="48" y="105" fill="#ffd39d" font-family="Arial,sans-serif" font-size="18" letter-spacing="8">AN IMOVIES ORIGINAL</text>
+  <text x="46" y="758" fill="#fff5e8" font-family="Georgia,serif" font-size="55" font-style="italic">Monsoon</text>
+  <text x="47" y="822" fill="#fff5e8" font-family="Georgia,serif" font-size="57">Letters</text>
+  <text x="51" y="860" fill="#f0b77e" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">SOME STORIES FIND THEIR WAY</text>
+</svg>

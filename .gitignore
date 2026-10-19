@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Local environment files. Keep the safe templates in version control.
+.env
+.env.*
+!.env.example
+
+# Build output and tool caches
+dist/
+build/
+coverage/
+.vite/
+.cache/
+
+# Local worktrees and operating system files
+.claude/worktrees/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.pid
+*.seed
+*.tmp
